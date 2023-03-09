@@ -1,4 +1,9 @@
 // what are the difference between mutating array methods and non-mutating array methods in javascript.List 5 array methods that fall under each of them.
+<p>Mutating methods are ones that change the object after the method has been used. Non-mutating methods do not change the object after the method has been used. The count and index methods are both non-mutating. Count returns the number of occurrences of the argument given but does not change the original string or list.</p>
+
+list of non mutating array: <p>slice() concat() map() filter()</p>
+
+<p>list of mutataing array methods: pop() push() shift() unshift() reverse() sort() splice()</p>
 
 
 // Here is an array of languages:['C#','Javascript','Ruby','PHP','Phython']. Perform this operation on them.
